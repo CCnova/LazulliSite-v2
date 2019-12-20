@@ -1,0 +1,21 @@
+.logoResponsive {
+    height: auto;
+    width: auto;
+    max-height: 72px;
+    max-width: 250px;
+}
+
+.navbar {
+    flex: 0 1 auto;
+    background-color: black;
+}
+
+.navBtns {
+    float: right;
+}
+
+.divider{
+    width:15px;
+    height:auto;
+    display:inline-block;
+}
