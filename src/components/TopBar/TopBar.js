@@ -5,27 +5,7 @@ import NavLink from '../NavLink/NavLink';
 
 const topBar = () => { 
     return (
-        // <nav className={`navbar navbar-default horizontal ${classes.navbar}`}>
-        //     <div className="container-fluid">
-        //         <div className="navbar-header">
-        //             <a className="navbar-brand" href="Home">
-        //                 <img className={classes.logoResponsive} alt="Logo" src={logo} />
-        //             </a>
-        //         </div>
-
-        //         <div>
-        //             <ul className="nav navbar-nav navbar-center">
-        //                 <li className={classes.navLi}><NavLink to="#home" content="Home" /></li>
-                        
-        //                 <li className={classes.navLi}><NavLink to="#sobre" content="Sobre" /></li>
-                        
-        //                 <li className={classes.navLi}><NavLink to="#servicos" content="Servicos" /></li>
-                        
-        //                 <li className={classes.navLi}><NavLink to="#contato" content="Contato" /></li>
-        //             </ul>
-        //         </div>
-        //     </div>
-        // </nav>
+        
         <nav className={`navbar navbar-expand-lg navbar-dark ${classes.navbar}`}>
             <a className="navbar-brand" href="#home"><img className={classes.logoResponsive} alt="Logo" src={logo} /></a>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">

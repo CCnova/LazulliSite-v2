@@ -3,7 +3,7 @@ import classes from './Home.module.css';
 import Container from '@material-ui/core/Container';
 import MyButton from '../Button/Button';
 
-//PROBLEMAS: Mudar tom do azul, muito claro
+//PROBLEMAS: Mudar tom do azul, muito claro e colocar cartao branco transparente
 
 
 const home = () => {
