@@ -16,7 +16,7 @@
 
 .home {
     flex: 1 1 auto;
-    margin-top: 70px;
+    margin-top: -20px;
     padding: 50px;
 }
 
@@ -26,4 +26,13 @@
 
 .secondText {
     margin-bottom: 30px;
+}
+
+.responsiveImg {
+    height: 300px;
+    width: 250px;
+}
+
+.textBox {
+    margin-top: 100px;
 }
