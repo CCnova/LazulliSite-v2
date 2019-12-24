@@ -1,0 +1,19 @@
+.services {
+    margin-bottom: 100px;
+}
+
+.lightBackground {
+    background: rgba(255, 255, 255, 0.4);
+}
+
+.centerText {
+    text-align: center;
+}
+
+.lightBlue {
+    color: #4DC0F1;
+}
+
+.servicesScreen {
+    padding-bottom: 50px;
+}

@@ -17,11 +17,12 @@ const topBar = () => {
                         <NavLink to="#home" content="Home" />
                     </li>
                     <li className="nav-item">
-                        <NavLink to="#sobre" content="Sobre" />
-                    </li>
-                    <li className="nav-item">
                         <NavLink to="#servicos" content="Servicos" />
                     </li>
+                    <li className="nav-item">
+                        <NavLink to="#sobre" content="Sobre" />
+                    </li>
+                    
                     <li className="nav-item">
                         <NavLink to="#contato" content="Contato" />
                     </li>

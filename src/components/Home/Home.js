@@ -19,7 +19,7 @@ const home = () => {
                 <p className={`${classes.white} ${classes.secondText}`}>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tempor nisi quam, non consectetur justo auctor non. Curabitur nisl lorem, fringilla quis ligula sit amet, hendrerit sodales mauris. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris a ex mi. Proin in placerat erat, et sollicitudin mauris.
                 </p>
-                <MyButton />
+                <MyButton content="Contato" />
             </Container>
         </div>
     );

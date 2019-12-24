@@ -1,0 +1,21 @@
+.contact {
+    margin-top: 100px;
+    background: rgba(255,255,255,0.4);
+    flex: 1 1 auto;
+}
+
+.centerText {
+    text-align: center;
+}
+
+.lightBlue {
+    color: #4DC0F1;
+}
+
+.whiteColor {
+    color: white;
+}
+
+.blackColor {
+    color: black;
+}
