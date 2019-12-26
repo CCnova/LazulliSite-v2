@@ -1,5 +1,5 @@
 .lightBlue {
-    color: #4DC0F1;
+    color: rgb(37, 90, 187);
 }
 
 .white {
@@ -36,4 +36,16 @@
 .textBox {
     margin-top: 100px;
     background: rgba(255, 255, 255, 0.7);
+}
+
+.h1Title {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+@media(max-width: 400px) {
+    .responsiveImg {
+        height: 200px;
+        width: 150px;
+    }
 }

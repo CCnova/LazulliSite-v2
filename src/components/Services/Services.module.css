@@ -3,7 +3,7 @@
 }
 
 .lightBackground {
-    background: rgba(255, 255, 255, 0.4);
+    background: rgba(255, 255, 255, 0.7);
 }
 
 .centerText {
@@ -11,7 +11,8 @@
 }
 
 .lightBlue {
-    color: #4DC0F1;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
 }
 
 .servicesScreen {

@@ -10,23 +10,23 @@ const services = () => {
         <Container className={`${classes.lightBackground} ${classes.servicesScreen}`} fixed maxWidth="lg">
             <h1 className={`${classes.services} ${classes.lightBlue} ${classes.centerText}`}>Servicos</h1>
             <Grid container direction='row' justify='center' alignItems='center' spacing={3}>
-                <Grid className={classes.centerText} item>
+                <Grid xs={12} sm={6} lg={3} className={classes.centerText} item>
                     <InfoCard imgSrc={img1} imgAlt="img1" textContent="Servico 1" cardTitle="Servico 1"
                     haveBtn={true} btnContent="Fazer Orcamento" />
                 </Grid>
-                <Grid className={classes.centerText} item>
+                <Grid xs={12} sm={6} lg={3} className={classes.centerText} item>
                     <InfoCard imgSrc={img1} imgAlt="img1" textContent="Servico 1" cardTitle="Servico 1" haveBtn={true} btnContent="Fazer Orcamento"/>
                 </Grid>
-                <Grid className={classes.centerText} item>
+                <Grid xs={12} sm={6} lg={3} className={classes.centerText} item>
                     <InfoCard imgSrc={img1} imgAlt="img1" textContent="Servico 1" cardTitle="Servico 1" haveBtn={true} btnContent="Fazer Orcamento" />
                 </Grid>
-                <Grid className={classes.centerText} item>
+                <Grid xs={12} sm={6} lg={3} className={classes.centerText} item>
                     <InfoCard imgSrc={img1} imgAlt="img1" textContent="Servico 1" cardTitle="Servico 1" haveBtn={true} btnContent="Fazer Orcamento"/>
                 </Grid>
-                <Grid className={classes.centerText} item>
+                <Grid xs={12} sm={6} lg={3} className={classes.centerText} item>
                     <InfoCard imgSrc={img1} imgAlt="img1" textContent="Servico 1" cardTitle="Servico 1" haveBtn={true} btnContent="Fazer Orcamento"/>
                 </Grid> 
-                <Grid className={classes.centerText} item>
+                <Grid xs={12} sm={6} lg={3} className={classes.centerText} item>
                     <InfoCard imgSrc={img1} imgAlt="img1" textContent="Servico 1" cardTitle="Servico 1" haveBtn={true} btnContent="Fazer Orcamento"/>
                 </Grid>
             </Grid>

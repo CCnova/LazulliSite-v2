@@ -1,6 +1,6 @@
 .contact {
     margin-top: 100px;
-    background: rgba(255,255,255,0.4);
+    background: rgba(255,255,255,1);
     flex: 1 1 auto;
 }
 
@@ -9,7 +9,7 @@
 }
 
 .lightBlue {
-    color: #4DC0F1;
+    color: rgb(117, 205, 243);
 }
 
 .whiteColor {

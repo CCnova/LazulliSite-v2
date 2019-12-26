@@ -39,7 +39,7 @@ const about = () => {
                     </Grid>
 
                     <Grid item xs={11} sm={8} lg={4}>
-                        <MyButton className={classes.workBtn} content="Trabalhe Conosco!" />
+                        <MyButton btnColor="rgb(0, 0, 0)" className={classes.workBtn} content="Trabalhe Conosco!" />
                     </Grid>
                     {/* <Grid item xs={1} lg={1}>
 
