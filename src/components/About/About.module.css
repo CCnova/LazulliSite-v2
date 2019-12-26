@@ -28,3 +28,9 @@
 .workBtn {
     display: inline;
 }
+
+
+.btnContainer {
+    display: inline;
+    text-align: center;
+}
