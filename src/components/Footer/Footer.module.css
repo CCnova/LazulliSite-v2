@@ -1,12 +1,36 @@
+
 .footerStyle {
     margin-top: 50px;
 }
 
 .lightBackground {
-    color: rgba(255, 255, 255, 0.4);
+    color: rgba(0, 0, 0);
 }
 
 .logoImg {
     width: 150px;
     height: 150px;
+}
+
+.logoResponsive {
+    height: auto;
+    width: auto;
+    max-height: 72px;
+    max-width: 250px;
+}
+
+.navbar {
+    flex: 0 1 auto;
+    background-color: black;
+    margin-top: 50px;
+}
+
+.navBtns {
+    float: right;
+}
+
+.divider{
+    width:15px;
+    height:auto;
+    display:inline-block;
 }
